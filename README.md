@@ -1,7 +1,7 @@
 # Compiler-Design
 
 ## Program 1:
-    ### Lexical Analyzer using C
+    ## Lexical Analyzer using C
     
     1.stdbool.h: Allows  to use bool as a Boolean data type. True evaluates to 1 and False evaluates to 0 . 
     2.malloc.h: It is a subroutine for performing dynamic memory allocation.Malloc is part of the standard library and is declared in the stdlib.h header.
